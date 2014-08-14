@@ -2,8 +2,6 @@
 
 source :rubygems
 
-gem 'rmagick', '~> 2.13.2'
-
 group :test do
   gem 'rspec', '~> 2.14.0'
   gem 'rcov', :platforms => :mri_18
